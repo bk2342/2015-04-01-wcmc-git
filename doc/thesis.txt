@@ -1,4 +1,7 @@
 # THESIS
+BY: ...FIRST LAST ...
+
+TITLE: HERE IS A TITLE
 
 this is my thesis
 
