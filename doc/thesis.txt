@@ -1,3 +1,9 @@
 # THESIS
 
 this is my thesis
+
+
+this is a new line within my thesis
+this is another new line
+this is line 8 out of 9
+line 9
